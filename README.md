@@ -11,7 +11,7 @@ Basic Linux commands, shell operations, file handling, and usage of Linux develo
 Implementation and demonstration of process creation, execution, and management concepts.
 
 ### Assignment 3 - Inter-Process Communication (IPC)
-Programs demonstrating communication between processes using pipes, shared memory, message queues, and related IPC mechanisms.
+Programs demonstrating communication between processes using shared memory and related IPC mechanisms.
 
 ### Assignment 4 - Multithreading
 Implementation of multithreading concepts using threads, thread creation, synchronization, and execution.
