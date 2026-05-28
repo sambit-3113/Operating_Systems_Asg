@@ -1,0 +1,9 @@
+Hi! I am a parent process.
+My PID is 6493
+Factorial for number 5: 120
+I am terminated earlier than my child.
+Hi! I am a child process.
+My PID is 6494
+MY Parent PID is 2016
+Fibonacci numbers for 10 numbers:
+0,1,1,2,3,5,8,13,21,34.
