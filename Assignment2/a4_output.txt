@@ -1,0 +1,26 @@
+U:
+Hi! I am a child process U of Parent R.
+My PID is 9306.
+MY Parent PID is 9304.
+My Grand Parent PID is 9303.
+T:
+Hi! I am a child process T of Parent Q.
+My PID is 9308.
+MY Parent PID is 9305.
+My Grand Parent PID is 9303.
+S:
+Hi! I am a child process S of Parent Q.
+My PID is 9307.
+MY Parent PID is 9305.
+My Grand Parent PID is 9303.
+R:
+Hi! I am a child process R of Parent P.
+My PID is 9304
+MY Parent PID is 9303
+Q:
+Hi! I am a child process Q of Parent P.
+My PID is 9305
+MY Parent PID is 9303
+P:
+Hi! I am a root process.
+My PID is 9303
